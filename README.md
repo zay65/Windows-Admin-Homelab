@@ -4,13 +4,14 @@ A hands-on IT support knowledge repository built through structured homelab prac
 
 
 
-<h2>Software</h2>
+<b2>Software</b2>
 - VMware Workstation PRO 17
  
-<h2>Operating System</h2>
+<b2>Operating System</b2>
 - Windows Server 2022
 
     
 
-<h2>Video Guide</h2>
+<b2>Video Guide</b2>
+
 [Active Directory/VMware Workstation PRO 17/Windows Server 2022](https://youtu.be/g25kHfoG8hs)
