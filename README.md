@@ -1,2 +1,16 @@
 # Windows-Admin-Homelab
 A hands-on IT support knowledge repository built through structured homelab practice. Covers Windows OS troubleshooting, Active Directory user and group management, DNS/DHCP basics, ticket-based issue resolution workflows, and foundational networking concepts. Designed to demonstrate job-ready technical support skills.
+
+
+
+
+<h2>Software</h2>
+- VMware Workstation PRO 17
+ 
+<h2>Operating System</h2>
+- Windows Server 2022
+
+    
+
+<h2>Video Guide</h2>
+[Active Directory/VMware Workstation PRO 17/Windows Server 2022](https://youtu.be/g25kHfoG8hs)
