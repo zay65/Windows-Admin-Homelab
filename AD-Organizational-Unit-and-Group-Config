@@ -21,6 +21,10 @@ This file documents the design, structure, and implementation of Organizational 
               -Jackdoe@SmithIT.local.com
               -Joshdoe@SmithIT.local.com
 
+              -WPB-IT-DL (Group Scope: Local) (Group Type: Distribution)
+              -Jackdoe@SmithIT.local.com
+              -Joshdoe@SmithIT.local.com
+
           -Servers
               -DNS
               -DHCP
@@ -36,6 +40,10 @@ This file documents the design, structure, and implementation of Organizational 
                       -FL-WS-999999
           -Users
                 -FL-IT (Group Scope: Local) (Group Type: Security)
+                -Johndoe@SmithIT.local.com
+                -Janedoe@SmithIT.local.com
+
+                -FL-IT-DL (Group Scope: Local) (Group Type: Distribution)
                 -Johndoe@SmithIT.local.com
                 -Janedoe@SmithIT.local.com
 
@@ -55,6 +63,10 @@ This file documents the design, structure, and implementation of Organizational 
 
           -Users
               -Miami-IT (Group Scope: Local) (Group Type: Security)
+              -Johndoe@SmithIT.local.com
+              -Janedoe@SmithIT.local.com
+
+              -Miami-IT-DL (Group Scope: Local) (Group Type: Security)
               -Johndoe@SmithIT.local.com
               -Janedoe@SmithIT.local.com
 
