@@ -1,4 +1,4 @@
-<h1> This file documents the design, structure, and implementation of Organizational Units (OUs) and security groups within the Windows Admin Homelab environment. </h1>
+This file documents the design, structure, and implementation of Organizational Units (OUs) and security groups within the Windows Admin Homelab environment. 
 
 - SmithIT.local (Domain)
 
