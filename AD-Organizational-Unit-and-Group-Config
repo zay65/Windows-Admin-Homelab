@@ -1,3 +1,68 @@
 <h1> This file documents the design, structure, and implementation of Organizational Units (OUs) and security groups within the Windows Admin Homelab environment. </h1>
 
-[!image alt]()
+- SmithIT.local (Domain)
+
+    -(Default AD Groups)
+    -Builtin
+    -Computers
+    -Domain Controllers
+    -ForeignSecurityPrincipals
+    -Managed Service Accounts
+
+    -(Added OUs & groups)
+    -West Palm Beach (Locational OU)
+          -Computers
+              -WPB-Assets (Insert X amount of devices) 
+                    -WPB-LTP-123456
+                    -WPB-DT-789101
+                    -WPB-WS-999999
+          -Users
+              -WPB-IT (Group Scope: Local) (Group Type: Security)
+              -Jackdoe@SmithIT.local.com
+              -Joshdoe@SmithIT.local.com
+
+          -Servers
+              -DNS
+              -DHCP
+              -SMB
+              -SMTP
+              -ETC
+
+          -Fort Lauderdale (Locational OU)
+               -Computers
+                  -FL-Assets (Insert X amount of devices) 
+                      -FL-LTP-123456
+                      -FL-DT-789101
+                      -FL-WS-999999
+          -Users
+                -FL-IT (Group Scope: Local) (Group Type: Security)
+                -Johndoe@SmithIT.local.com
+                -Janedoe@SmithIT.local.com
+
+          -Servers
+                -DNS
+                -DHCP
+                -SMB
+                -SMTP
+                -ETC
+
+          -Miami (Locational OU)
+                -Computers
+                    -Miami-Assets (Insert X amount of devices) 
+                        -Miami-LTP-123456
+                        -Miami-DT-789101
+                        -Miami-WS-999999
+
+          -Users
+              -Miami-IT (Group Scope: Local) (Group Type: Security)
+              -Johndoe@SmithIT.local.com
+              -Janedoe@SmithIT.local.com
+
+          -Servers
+              -DNS
+              -DHCP
+              -SMB
+              -SMTP
+              -ETC
+
+
