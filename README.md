@@ -1,6 +1,5 @@
 <h1> Windows-Admin-Homelab </h1>
-A hands-on IT support knowledge repository built through structured homelabs. Covers Windows OS troubleshooting, Active Directory user and group management, DNS/DHCP basics, ticket-based issue resolution workflows, and foundational networking concepts.
-
+A hands-on IT support knowledge repository built through structured homelabs. Covers Windows OS installation, Active Directory installation, Organizational Units, User/Group Policy Management, File service sharing, Security Policy/Service Account implementation, Folder permission granting, & Access-Based enumeration.
 
 
  - <b2> Software</b2>
