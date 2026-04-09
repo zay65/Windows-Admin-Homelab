@@ -1,6 +1,6 @@
 This file documents the design, structure, and implementation of Organizational Units (OUs) and security groups within the Windows Admin Homelab environment. 
 
-- SmithIT.local (Domain)
+- SmithIT2022.local (Domain)
 
     -(Default AD Groups)
     -Builtin
@@ -18,12 +18,12 @@ This file documents the design, structure, and implementation of Organizational 
                     -WPB-WS-999999
           -Users
               -WPB-IT (Group Scope: Local) (Group Type: Security)
-              -Jackdoe@SmithIT.local.com
-              -Joshdoe@SmithIT.local.com
+              -Jackdoe@SmithIT2022.local.com
+              -Joshdoe@SmithIT2022.local.com
 
               -WPB-IT-DL (Group Scope: Local) (Group Type: Distribution)
-              -Jackdoe@SmithIT.local.com
-              -Joshdoe@SmithIT.local.com
+              -Jackdoe@SmithIT2022.local.com
+              -Joshdoe@SmithIT2022.local.com
 
           -Servers
               -DNS
@@ -40,12 +40,12 @@ This file documents the design, structure, and implementation of Organizational 
                       -FL-WS-999999
           -Users
                 -FL-IT (Group Scope: Local) (Group Type: Security)
-                -Johndoe@SmithIT.local.com
-                -Janedoe@SmithIT.local.com
+                -Johndoe@SmithIT2022.local.com
+                -Janedoe@SmithIT2022.local.com
 
                 -FL-IT-DL (Group Scope: Local) (Group Type: Distribution)
-                -Johndoe@SmithIT.local.com
-                -Janedoe@SmithIT.local.com
+                -Johndoe@SmithIT2022.local.com
+                -Janedoe@SmithIT2022.local.com
 
           -Servers
                 -DNS
@@ -63,12 +63,12 @@ This file documents the design, structure, and implementation of Organizational 
 
           -Users
               -Miami-IT (Group Scope: Local) (Group Type: Security)
-              -Johndoe@SmithIT.local.com
-              -Janedoe@SmithIT.local.com
+              -Johndoe@SmithIT2022.local.com
+              -Janedoe@SmithIT2022.local.com
 
               -Miami-IT-DL (Group Scope: Local) (Group Type: Security)
-              -Johndoe@SmithIT.local.com
-              -Janedoe@SmithIT.local.com
+              -Johndoe@SmithIT2022.local.com
+              -Janedoe@SmithIT2022.local.com
 
           -Servers
               -DNS
