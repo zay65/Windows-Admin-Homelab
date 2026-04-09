@@ -3,16 +3,17 @@ Repo that covers Windows OS installation, Active Directory installation, Organiz
 
 
  - <b2> Software</b2>
-
-    - VMware Workstation PRO 17
+ 
     - Oracle VirtualBox
+    - VMware Workstation PRO 17
+
  
 -  <b2>  Operating System(s)</b2>
 
-    - Windows Server 2019
-    - Windows Server 2022
-    - Windows 10
-    - Windows 11
+    - Windows Server 2019 & Windows 10 client
+    - Windows Server 2022 & Windows 11 client
+    
+    
     
 
 <h2>Video Guides</h2>
@@ -22,7 +23,10 @@ Windows Active Directory Installation (VirtualBox/Server 2019/Windows 10)
 
 [Windows Active Directory Installation (VMware/Server 2022/Windows 11)](https://youtu.be/g25kHfoG8hs)
 
+<div align="center"> </div>
 
-[AD Organizational Units & Groups](https://youtu.be/_cXZFOSUcqg?si=eNtfsghBmuRGNPT9)
+ <p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/e859c5450826c894d6dacad9a3a09950f526eea8/Win%20AD%20Serv%202022.png" alt="Sample Image"/>
+  </p>
 
-![image alt](https://github.com/zay65/Windows-Admin-Homelab/blob/b81b62bc2d085b5985a0e86c9ea0b9fba5ff0f89/OUs%20layout%20.PNG)
+
