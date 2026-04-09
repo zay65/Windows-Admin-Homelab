@@ -26,7 +26,7 @@ Windows Active Directory Installation (VirtualBox/Server 2019/Windows 10)
 <div align="center"> </div>
 
  <p align="center">
-    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/e859c5450826c894d6dacad9a3a09950f526eea8/Win%20AD%20Serv%202022.png" alt="Sample Image"/>
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/e859c5450826c894d6dacad9a3a09950f526eea8/Win%20AD%20Serv%202022.png" alt="Sample Image" width="50%" height="50%"/>
   </p>
 
 
