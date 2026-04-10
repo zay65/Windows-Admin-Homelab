@@ -12,12 +12,11 @@ Repo that covers Windows OS installation, Active Directory installation, Organiz
     
     
 
-<h2>Video Guides</h2>
 
 
-Windows Active Directory Installation (VirtualBox/Server 2019/Windows 10)
 
-[Windows Active Directory Installation (VMware/Server 2022/Windows 11)](https://youtu.be/g25kHfoG8hs)
+
+<h2> Windows Active Directory Installation VMware/Server 2022/Windows 11 </h2>
 
 - <b2> Installed Windows Server 2022</b2>
 - <b2> Installed Active Directory, Remote Access, DNS Server, DHCP server, Group Policy MGMT, RAS & Remote Server Admin tools</b2>
