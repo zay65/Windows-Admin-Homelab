@@ -2,15 +2,11 @@
 Repo that covers Windows OS installation, Active Directory installation, Organizational Units, User/Group Policy Management, File service sharing, Security Policy/Service Account implementation, Folder permission granting, & Access-Based enumeration.
 
 
- - <b2> Software</b2>
- 
-    - Oracle VirtualBox
+ - <b2> Virtualization Software</b2>
     - VMware Workstation PRO 17
 
  
 -  <b2>  Operating System(s)</b2>
-
-    - Windows Server 2019 & Windows 10 client
     - Windows Server 2022 & Windows 11 client
     
     
@@ -71,4 +67,10 @@ Windows Active Directory Installation (VirtualBox/Server 2019/Windows 10)
 
 <p align="center">
     <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/c851ce927018b7dec158220dc883a4c6e26a8de0/Win%20AD%20Serv%202022%207.png" alt="Sample Image"/>
+  </p>
+
+  - <b2> Made a File Screen Management template to restrict certain media types from being saved and/or shared by clients.</b2>
+
+<p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/d8c48e1c28fdb2de0fdaaa28477e17109a6f4f46/Win%20AD%20Serv%202022%208.png" alt="Sample Image"/>
   </p>
