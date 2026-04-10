@@ -60,3 +60,15 @@ Windows Active Directory Installation (VirtualBox/Server 2019/Windows 10)
 <p align="center">
     <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/942525d70c9d842b29e916b27372e16df4543961/Win%20AD%20Serv%202022%204.png" alt="Sample Image"/>
   </p>
+
+- <b2> Installed File Server Resource Manager (FSRM) to manage and classify sensitive data used within SmithIT.</b2>
+
+<p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/c851ce927018b7dec158220dc883a4c6e26a8de0/Win%20AD%20Serv%202022%206.png" alt="Sample Image"/>
+  </p>
+  
+- <b2> Produced a Quota Management template to automatically email the appropriate admins when the server's "SHARED" folder exceeds 70% of its storage capacity.</b2>
+
+<p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/c851ce927018b7dec158220dc883a4c6e26a8de0/Win%20AD%20Serv%202022%207.png" alt="Sample Image"/>
+  </p>
