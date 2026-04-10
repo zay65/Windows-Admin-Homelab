@@ -27,17 +27,36 @@ Windows Active Directory Installation (VirtualBox/Server 2019/Windows 10)
 - <b2> Installed Active Directory, Remote Access, DNS Server, Group Policy MGMT, RAS & Remote Server Admin tools</b2>
 - <b2> Promoted server to a Domain Controller; "SmithIT2022.local". </b2>
 - <b2> Created Organizational Units: "West Palm Beach", "Fort Lauderdale", & "Miami" to simulate branch offices for SmithIT business </b2>
-- <b2> Created categorized OUs within the branch office OUs to keep track of assets: "Computers", "Users", and "Servers". </b2>
-- <b2> Created Security and Distribution groups for different departments</b2>
-- <b2> Created Users and assigned them to their respective groups </b2>
-- <b2></b2>
+- <b2> Made categorized OUs within the branch office OUs to keep track of assets: "Computers", "Users", and "Servers". </b2>
 
  <p align="center">
     <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/ee7edd3c4cd3ac4c2357b4558e56a7c67bbc0314/Win%20AD%20Serv%202022.png" alt="Sample Image"/>
   </p>
 
+
+
+- <b2> Produced Security and Distribution groups for different departments</b2>
+- <b2> Created Users and assigned them to their respective groups </b2>
+
+
  <p align="center">
     <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/ee7edd3c4cd3ac4c2357b4558e56a7c67bbc0314/Win%20AD%20Serv%202022%202.png" alt="Sample Image"/>
   </p>
 
+- <b2> Made and assigned Group Policy Objects (GPOs) to specific organizational units tailored to SmithIT business standards</b2>
 
+ <p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/e58844e0f9daab3b18435a5d8d8f5ab4b5e7378c/Win%20AD%20Serv%202022%203.png" alt="Sample Image"/>
+  </p>
+
+  - <b2> Created a Windows 11 Client, joined it to the "SmithIT2022.local" domain, and verified the system was fully functional after being joined and updated.</b2>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/fc84b20ff8b0bfc09208a2c6d4c5dac278552e23/Win%20AD%20Serv%202022%205.png" alt="Sample Image"/>
+  </p>
+
+- <b2> Created a self titled folder, named "SHARED", that's connected to the server and mapped a network drive to it from my Windows Client </b2>
+
+<p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/942525d70c9d842b29e916b27372e16df4543961/Win%20AD%20Serv%202022%204.png" alt="Sample Image"/>
+  </p>
