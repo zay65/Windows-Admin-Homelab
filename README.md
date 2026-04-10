@@ -20,7 +20,7 @@ Windows Active Directory Installation (VirtualBox/Server 2019/Windows 10)
 [Windows Active Directory Installation (VMware/Server 2022/Windows 11)](https://youtu.be/g25kHfoG8hs)
 
 - <b2> Installed Windows Server 2022</b2>
-- <b2> Installed Active Directory, Remote Access, DNS Server, Group Policy MGMT, RAS & Remote Server Admin tools</b2>
+- <b2> Installed Active Directory, Remote Access, DNS Server, DHCP server, Group Policy MGMT, RAS & Remote Server Admin tools</b2>
 - <b2> Promoted server to a Domain Controller; "SmithIT2022.local". </b2>
 - <b2> Created Organizational Units: "West Palm Beach", "Fort Lauderdale", & "Miami" to simulate branch offices for SmithIT business </b2>
 - <b2> Made categorized OUs within the branch office OUs to keep track of assets: "Computers", "Users", and "Servers". </b2>
