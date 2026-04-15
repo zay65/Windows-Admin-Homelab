@@ -50,6 +50,12 @@ Repo that covers Windows OS installation, Active Directory installation, Organiz
     <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/fc84b20ff8b0bfc09208a2c6d4c5dac278552e23/Win%20AD%20Serv%202022%205.png" alt="Sample Image"/>
   </p>
 
+ - <b2> Unlocked user accounts/Reset passwords.</b2>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/5991ab3376c9c1e6ef7206dd24cb0f314ea57a7f/Windows%20Unlock%20and%20Password%20Reset.png" alt="Sample Image"/>
+  </p>
+
 - <b2> Created a self titled folder, named "SHARED", that's connected to the server and mapped a network drive to it from my Windows Client </b2>
 
 <p align="center">
