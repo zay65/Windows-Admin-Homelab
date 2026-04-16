@@ -19,10 +19,11 @@ Repo that covers Windows OS installation, Active Directory installation, Organiz
 <h2> Windows Active Directory Installation VMware/Server 2022/Windows 11 </h2>
 
 - <b2> Installed Windows Server 2022</b2>
-- <b2> Installed Active Directory, Remote Access, DNS Server, DHCP server, Group Policy MGMT, RAS & Remote Server Admin tools</b2>
-- <b2> Promoted server to a Domain Controller; "SmithIT2022.local". </b2>
+- <b2> Installed Active Directory
+- <b2> Promoted server to a Domain Controller ("SmithIT2022.local") using PowerShell Script</b2>
+- <b2> Installed Remote Access, DNS Server, DHCP server, Group Policy MGMT, RAS & Remote Server Admin tools</b2> </b2>
 - <b2> Created Organizational Units: "West Palm Beach", "Fort Lauderdale", & "Miami" to simulate branch offices for SmithIT business </b2>
-- <b2> Made categorized OUs within the branch office OUs to keep track of assets: "Computers", "Users", and "Servers". </b2>
+- <b2> Made categorized OUs within the branch office OUs to keep track of assets: "Computers", "Users", and "Servers"</b2>
 
  <p align="center">
     <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/ee7edd3c4cd3ac4c2357b4558e56a7c67bbc0314/Win%20AD%20Serv%202022.png" alt="Sample Image"/>
