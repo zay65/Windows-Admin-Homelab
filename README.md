@@ -1,5 +1,5 @@
 <h1> Windows-Admin-Homelab </h1>
-Repo that covers Windows OS installation, Active Directory installation, Organizational Units, User/Group Policy Management, File service sharing, Security Policy/Service Account implementation, Folder permission granting, & Access-Based enumeration.
+Repo that covers Windows OS installation, Active Directory installation and the automation of helpdesk processes for effectice cost-savings and increased KPIs, Organizational Units, User/Group Policy Management, File service sharing, Security Policy/Service Account implementation, Folder permission granting, & Access-Based enumeration.
 
 
  - <b2> Virtualization Software</b2>
