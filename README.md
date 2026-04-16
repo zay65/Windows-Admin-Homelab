@@ -25,6 +25,10 @@ Repo that covers Windows OS installation, Active Directory installation, Organiz
 - <b2> Created Organizational Units: "West Palm Beach", "Fort Lauderdale", & "Miami" to simulate branch offices for SmithIT business </b2>
 - <b2> Made categorized OUs within the branch office OUs to keep track of assets: "Computers", "Users", and "Servers"</b2>
 
+<p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/4c6db1693d0beded8a3481a9cd8b8e4c93a07136/Azure%20ADDS%20PS%20Script.png" alt="Sample Image"/>
+  </p>
+
  <p align="center">
     <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/ee7edd3c4cd3ac4c2357b4558e56a7c67bbc0314/Win%20AD%20Serv%202022.png" alt="Sample Image"/>
   </p>
