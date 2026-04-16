@@ -36,7 +36,15 @@ Repo that covers Windows OS installation, Active Directory installation, Organiz
 
 
 - <b2> Produced Security and Distribution groups for different departments</b2>
-- <b2> Created Users and assigned them to their respective groups </b2>
+- <b2> Automated the creation of user accounts to increase cost savings for the SmithIT company rather than the timely manual creation process, via PowerShell commands and assigned them to their respective groups </b2>
+
+ <p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/a55234a6cbec1851c91cd2f65a9d467497eca0fa/ADDS%20User%20PS%20Script.png" alt="Sample Image"/>
+  </p>
+  
+   <p align="center">
+    <img src="https://github.com/zay65/Windows-Admin-Homelab/blob/a55234a6cbec1851c91cd2f65a9d467497eca0fa/ADDS%20User%20manually.png" alt="Sample Image"/>
+  </p>
 
 
  <p align="center">
