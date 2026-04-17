@@ -7,7 +7,7 @@ Repo that covers Windows OS installation, Active Directory installation and the 
 
  
 -  <b2>  Operating System(s)</b2>
-    - Windows Server 2022 & Windows 11 client
+    - Windows Server 2022 & Windows 11 Enterprise client
     
     
     
